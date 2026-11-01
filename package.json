@@ -1,0 +1,10 @@
+{
+  "name": "colourchangingreact",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix colour-changing run dev",
+    "build": "npm --prefix colour-changing run build",
+    "preview": "npm --prefix colour-changing run preview"
+  }
+}
+
